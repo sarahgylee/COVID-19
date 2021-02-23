@@ -1,7 +1,7 @@
 # COVID-19 Data in Ontario, Canada
 
 
-offical-data Sources:
+offical-data sources:
 
 covid19-assessment-centre-Ontario.csv\
 https://data.ontario.ca/dataset/covid-19-assessment-centre-locations/resource/c60993bb-3988-4648-9be9-398dee480514
