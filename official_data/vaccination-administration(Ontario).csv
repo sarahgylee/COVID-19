@@ -1,3 +1,4 @@
+https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/8a89caa9-511c-4568-af89-7f2174b4378c
 _id,report_date,previous_day_doses_administered,total_doses_administered,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated
 1,2020-12-24T00:00:00,,"10,756",,
 2,2020-12-30T00:00:00,"4,595","18,603",,
