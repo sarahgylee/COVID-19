@@ -1,4 +1,4 @@
-﻿_id,report_date,previous_day_doses_administered,total_doses_administered,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated
+_id,report_date,previous_day_doses_administered,total_doses_administered,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated
 1,2020-12-24T00:00:00,,"10,756",,
 2,2020-12-30T00:00:00,"4,595","18,603",,
 3,2020-12-31T00:00:00,"5,463","23,502",,
