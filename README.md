@@ -1,1 +1,1 @@
-# COVID-19 Data in Canada
+# COVID-19 Data in Ontario, Canada
