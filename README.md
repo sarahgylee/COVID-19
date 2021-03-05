@@ -1,5 +1,8 @@
 # COVID-19 Data in Ontario, Canada
 
+[DataViz] COVID-19 vaccine doses administered in Canada\
+https://public.tableau.com/profile/sarahgylee#!/vizhome/COVID-19vaccinedosesadministeredinCanada/VaccineAdministration
+
 
 offical-data sources:
 
