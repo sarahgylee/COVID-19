@@ -21,6 +21,12 @@ https://data.ontario.ca/dataset/ontario-covid-19-testing-percent-positive-by-age
 covid19-testing-locations.geojson\
 https://open.canada.ca/data/en/dataset/8ba078b2-ca9b-44c1-b5db-9674d85421f9
 
+covid19-vaccine-doses-administered-in-Canada\
+https://health-infobase.canada.ca/covid-19/vaccine-administration/ 
+
+covid19-vaccine-data-in-Ontario\
+https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario 
+
 georaphic-names-Ontario.geojson\
 https://geohub.lio.gov.on.ca/datasets/geographic-names-ontario/data?page=6
 
@@ -29,3 +35,4 @@ https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/8a89ca
 
 vaccination-administration.csv\
 https://health-infobase.canada.ca/covid-19/vaccine-administration/
+
